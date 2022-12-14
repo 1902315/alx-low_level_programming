@@ -1,0 +1,4 @@
+To help you track down that bug, start reading your code aloud.
+Pretend that a programmer friend is sitting right next to you.
+Explain what your code is doing and how it works. As you talk through your code, you’ll find the problem. If you don’t, have your imaginary friend ask you questions during your explanation.
+Don’t worry about going mental. You’re a C programmer. You’re already mental.
